@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### About me
 I'm the Head of Product Management for SAST & Engiens @Checkmarx also leading PM for https://github.com/Checkmarx/kics 
 - 🔭 Head of Product Management for SAST & Engines @Checkmarx
