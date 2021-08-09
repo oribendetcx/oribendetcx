@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oribendetcx&theme=algolia" alt="oribendet"  />
 
 ## My Stats
-[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=oribendetcx&theme=dark)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
+[![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=oribendetcx&theme=dracula)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
 
 <details>
   <summary><b>⚡ Previous Talks</b></summary>
