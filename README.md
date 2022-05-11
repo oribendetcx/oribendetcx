@@ -1,5 +1,5 @@
 ### About me
-- 🔭 Head of Product Management for SAST & Engines @Checkmarx
+- 🔭 VP of Product Management for @Checkmarx
 - 🔭 Lead PM for https://github.com/Checkmarx/kics
 - :musical_note: Co-Founder of <a href="https://anchor.fm/mpm-podcast">Managing Product Management</a> - a podcast decidated to leading product management. 
 - 👯 I’m looking to collaborate on cloud native security, IaC, threat modeling and everything in between
