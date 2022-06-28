@@ -26,8 +26,13 @@ Here are some ideas to get you started:
 [![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=oribendetcx&theme=dracula)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
 
 <details>
-  <summary><b>⚡ Previous Talks</b></summary> 
+  <summary><b>:key: Keynotes</b></summary> 
   <a href="https://youtu.be/LYAIn1ywVSs">Keynote: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
+    <a href="https://youtu.be/LYAIn1ywVS](https://checkmarx-tenerife2022.forms-wizard.biz">Keynote: The Power of the Platform; The future is now!</a> <br>
+</details>
+
+<details>
+  <summary><b>⚡ Previous Talks</b></summary> 
   <a href="https://vimeo.com/647880002/357ed36cff">A Product Manager's guide to Open Source projects -PMF Europe 2021 </a> <br>
   <a href="https://youtu.be/Hs_YbAH9giI">Avoiding IaC misconfiguration (on multiple platforms)- YallaDevOps 2021 [Hebrew]</a> <br>
   <a href="https://youtu.be/56AM1wiIOss">Keeping Infrastructure as Code Secure (KICS)- Black Hat Asia 2021</a> <br> 
