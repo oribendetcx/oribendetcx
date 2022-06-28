@@ -1,6 +1,5 @@
 ### About me
 - 🔭 VP of Product Management for @Checkmarx
-- 🔭 Lead PM for https://github.com/Checkmarx/kics
 - :musical_note: Co-Founder of <a href="https://anchor.fm/mpm-podcast">Managing Product Management</a> - a podcast decidated to leading product management. 
 - 👯 I’m looking to collaborate on cloud native security, IaC, threat modeling and everything in between
 - ⚡ Fun fact: I'm a huge lego collector
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>:key: Keynotes</b></summary> 
   <a href="https://youtu.be/LYAIn1ywVSs">Keynote: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
-    <a href="https://youtu.be/LYAIn1ywVS](https://checkmarx-tenerife2022.forms-wizard.biz">Keynote: The Power of the Platform; The future is now!</a> <br>
+    <a href="https://checkmarx-tenerife2022.forms-wizard.biz/">Keynote: The Power of the Platform; The future is now!</a> <br>
 </details>
 
 <details>
