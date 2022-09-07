@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 ## My Stats
 [![Ori' GitHub stats](https://github-readme-stats.vercel.app/api?username=oribendetcx&theme=dracula)](https://github.com/oribendetcx/github-readme-stats&?theme=dark)
 
+
+
 <details>
   <summary><b>:key: Keynotes</b></summary> 
+  <a href="https://www.developerweek.com/global/conference/cloud/agenda/">Keynote: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
   <a href="https://youtu.be/LYAIn1ywVSs">Keynote: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
     <a href="https://checkmarx-tenerife2022.forms-wizard.biz/">Keynote: The Power of the Platform; The future is now!</a> <br>
 </details>
