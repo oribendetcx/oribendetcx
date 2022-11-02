@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>:key: Keynotes</b></summary> 
-  <a href="https://www.developerweek.com/global/conference/cloud/agenda/">Keynote: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
-  <a href="https://youtu.be/LYAIn1ywVSs">Keynote: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
-    <a href="https://checkmarx-tenerife2022.forms-wizard.biz/">Keynote: The Power of the Platform; The future is now!</a> <br>
+  <a href="https://www.developerweek.com/global/conference/cloud/agenda/">DeveloperWeek Cloud: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
+  <a href="https://youtu.be/LYAIn1ywVSs">Israel Clouds: The Cloud on the Horizon: Going Beyond AppSec: What Lies Ahead for Security, Development, and CloudSec Teams?</a> <br>
+    <a href="https://checkmarx-tenerife2022.forms-wizard.biz/">Tenerife 2022: The Power of the Platform; The future is now!</a> <br>
 </details>
 
 <details> On the horizon: What’s next for security, development, and CloudSec teams?
