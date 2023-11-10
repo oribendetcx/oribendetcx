@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 <details> 
   <summary><b>⚡ Previous Talks</b></summary>
-    <a href="[https://vimeo.com/647880002/357ed36cff](https://portal.awsevents.com/events/reinvent2022/dashboard/event/sessions](https://sched.co/1H1Q5)">DeveloperWeek: Stop Worrying about Vulnerabilities - A Practical Guide to Application Security in a DevSecOps World</a> <br>
+   <a href="https://sched.co/1S2fQ">AI DevWorld 2023 - Virtual Exclusive: The Dark Side of GenAI - Security Aspects of using Generative AI solutions </a> <br>
+  <a href="[https://vimeo.com/647880002/357ed36cff](https://portal.awsevents.com/events/reinvent2022/dashboard/event/sessions](https://sched.co/1H1Q5)">DeveloperWeek: Stop Worrying about Vulnerabilities - A Practical Guide to Application Security in a DevSecOps World</a> <br>
   <a href="https://vimeo.com/647880002/357ed36cff](https://portal.awsevents.com/events/reinvent2022/dashboard/event/sessions">AWS re:invent - On the horizon: What’s next for security, development, and CloudSec teams? </a> <br>
   <a href="https://vimeo.com/647880002/357ed36cff">A Product Manager's guide to Open Source projects -PMF Europe 2021 </a> <br>
   <a href="https://youtu.be/Hs_YbAH9giI">Avoiding IaC misconfiguration (on multiple platforms)- YallaDevOps 2021 [Hebrew]</a> <br>
